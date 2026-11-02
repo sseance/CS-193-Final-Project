@@ -25,7 +25,7 @@ A java application that helps college students organize assignments by automatic
 
 ## Design Documents
 ### Eisenhower Matrix
-![Eisenhower Matrix][docs/eisenhower matrix.pdf]
+![Eisenhower Matrix](docs/eisenhower matrix.pdf)
 
 ### System Diagram
-![System Diagram][docs/System-Diagram.png]
+![System Diagram](docs/System-Diagram.png)
